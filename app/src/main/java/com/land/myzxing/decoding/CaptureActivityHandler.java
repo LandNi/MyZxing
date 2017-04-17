@@ -30,7 +30,7 @@ import android.os.Message;
 import android.provider.Browser;
 import android.util.Log;
 
-import com.land.myzxing.CaptureActivity;
+import com.land.myzxing.capture.CaptureActivity;
 import com.land.myzxing.R;
 import com.land.myzxing.camera.CameraManager;
 import com.land.myzxing.view.ViewfinderResultPointCallback;

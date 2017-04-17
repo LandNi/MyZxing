@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.land.myzxing;
+package com.land.myzxing.capture;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;

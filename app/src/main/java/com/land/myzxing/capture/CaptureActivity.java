@@ -1,4 +1,4 @@
-package com.land.myzxing;
+package com.land.myzxing.capture;
 
 import android.app.AlertDialog;
 import android.content.Intent;
@@ -15,6 +15,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.TextView;
 
+import com.land.myzxing.R;
 import com.land.myzxing.camera.CameraManager;
 import com.land.myzxing.decoding.CaptureActivityHandler;
 import com.land.myzxing.decoding.FinishListener;

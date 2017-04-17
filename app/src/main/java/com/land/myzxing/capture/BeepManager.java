@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.land.myzxing;
+package com.land.myzxing.capture;
 
 import android.app.Activity;
 import android.content.Context;
@@ -23,6 +23,8 @@ import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.Vibrator;
 import android.util.Log;
+
+import com.land.myzxing.R;
 
 import java.io.Closeable;
 import java.io.IOException;
